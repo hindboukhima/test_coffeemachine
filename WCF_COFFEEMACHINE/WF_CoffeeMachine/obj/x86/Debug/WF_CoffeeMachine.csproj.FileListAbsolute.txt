@@ -1,0 +1,8 @@
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\bin\Debug\WF_CoffeeMachine.exe.config
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\bin\Debug\WF_CoffeeMachine.exe
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\bin\Debug\WF_CoffeeMachine.pdb
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\obj\x86\Debug\WF_CoffeeMachine.Form1.resources
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\obj\x86\Debug\WF_CoffeeMachine.Properties.Resources.resources
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\obj\x86\Debug\WF_CoffeeMachine.csproj.GenerateResource.Cache
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\obj\x86\Debug\WF_CoffeeMachine.exe
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WF_CoffeeMachine\obj\x86\Debug\WF_CoffeeMachine.pdb

@@ -1,0 +1,4 @@
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WCF_BD\bin\WCF_BD.dll
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WCF_BD\bin\WCF_BD.pdb
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WCF_BD\obj\Debug\WCF_BD.dll
+C:\Users\h.boukhima\Desktop\WCF_COFFEEMACHINE\WCF_BD\obj\Debug\WCF_BD.pdb
